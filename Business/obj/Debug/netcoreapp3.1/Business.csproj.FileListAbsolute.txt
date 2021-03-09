@@ -1,0 +1,16 @@
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\serka\OneDrive\Masaüstü\Apps\CarRental\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
